@@ -1,0 +1,17 @@
+body{
+    background-color: #00CED1;
+
+}
+img{width: 20%;}
+figure{
+    text-align: center;
+}
+h2{
+    color: crimson;
+}
+
+.container{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
