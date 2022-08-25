@@ -1,14 +1,24 @@
-body{
-    background-color: #00CED1;
+body {
+    background-image: url(../img/OIP.jfif);
+  }
 
-}
+  h2 {
+    color: #ff0000
+    text-align: center;
+  }
+    
+  h1 {
+    color: #e0e0e0
+    text-align: center; }
+
+
+
+
 img{width: 20%;}
 figure{
     text-align: center;
 }
-h2{
-    color: crimson;
-}
+
 
 .container{
     margin: auto;
@@ -17,3 +27,7 @@ h2{
     font-family: 'Kalam', cursiva;
 }
 
+div {
+    background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+  }
+  
