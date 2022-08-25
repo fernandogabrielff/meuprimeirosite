@@ -1,17 +1,24 @@
+
 body {
-    background-image: url(../img/OIP.jfif);
+    background-image: url(../img/222.jfif);
   }
 
   h2 {
     color: #ff0000
-    text-align: center;
-  }
+     text_aling: center}
     
   h1 {
     color: #e0e0e0
-    text-align: center; }
+    text_align: center}
 
 
+
+p {color: blue;}
+
+
+
+
+h1 {color: #ff0000;}
 
 
 img{width: 20%;}
@@ -28,6 +35,8 @@ figure{
 }
 
 div {
-    background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+    background: rgba(88, 132, 253, 0.3) /* Green background with 30% opacity */
   }
+  
+
   
