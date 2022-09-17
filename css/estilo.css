@@ -106,7 +106,18 @@ footer p{
   color: rgb(37, 41, 255);
   text-align: center;
 }
+.ani{
+  width: 300px;
+  height: 800px;
+  background-color: #00000049;  
+  margin-top: 2%;
+  margin-bottom: 2%;
+  transition:width 2s;
+}
 
+.ani:hover{
+  width: 800px;
+}
 
 
 
